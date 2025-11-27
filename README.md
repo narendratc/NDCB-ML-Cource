@@ -1,1 +1,1 @@
-# NDCB-ML-Cource
+# NDCB-ML-Course
